@@ -3,7 +3,7 @@ import math
 
 st.set_page_config(page_title="Comprehensive Calculator", page_icon="🧮", layout="centered")
 
-st.title("🧮 Comprehensive Calculator")
+st.title("🧮 Calculator")
 
 # Sidebar for calculator mode
 mode = st.sidebar.selectbox(
