@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 
-st.set_page_config(page_title="Comprehensive Calculator", page_icon="🧮", layout="centered")
+st.set_page_config(page_title="Calculator", page_icon="🧮", layout="centered")
 
 st.title("🧮 Calculator")
 
